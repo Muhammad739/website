@@ -1,0 +1,41 @@
+*{
+    color:#ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-image: url(pattern.jpeg);
+    height: 200px;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-bottom: 20px;
+
+}
+h1{
+    font-size: 100px;
+    align-items: center;
+    text-align: left;
+    padding: 80px ;
+}
+
+.green{
+    background-color: rgb(119, 197, 119);
+    margin-bottom: 20px;
+}
+
+p, strong{
+    color:black;
+}
+
+.orange{
+    background-color:orange;
+    margin: 20px 0px;
+}
+
+.blue{
+    background-color: lightblue;
+    margin: 20px 0px;
+
+}
